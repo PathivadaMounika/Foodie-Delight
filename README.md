@@ -26,7 +26,7 @@ Foodie Delight is a responsive and visually appealing frontend website built for
 To view or edit the project locally:
 
 1. Clone the repository  
-git clone https://github.com/PathivadaMounika/your-Foodie-Delight.git
+git clone https://github.com/PathivadaMounika/Foodie-Delight.git
 2. Open the folder in your code editor  
 3. Open `index.html` in your browser to view the site
 
